@@ -64,8 +64,6 @@ This repository contains an Excel project focused on data formatting, calculatio
 
 - Microsoft Excel or Excel 365.
 
-## License
 
-This project is licensed under the [Your License] License.
 
 ---
