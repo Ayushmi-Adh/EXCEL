@@ -3,7 +3,7 @@
 This repository contains an Excel project focused on data formatting, calculation, and analysis.
 ![adding-current-date-time-shortcut-keys-3123612_V1-95c8caada0514f8495839e625c6b41c9](https://github.com/Ayushmi-Adh/EXCEL/assets/132826306/630f5e9a-e300-4937-b313-202215b5fa95)
 
-## Tasks Accomplished
+## Tasks Accomplished:
 
 - Formatted the data as a table using the Format as Table option.
 - Used AutoSum to calculate values in Column C, including SUM, AVERAGE, MIN, MAX, and COUNT.
@@ -62,7 +62,7 @@ This repository contains an Excel project focused on data formatting, calculatio
 
 ## Requirements:
 
-- Microsoft Excel or Excel 365.
+- Microsoft Excel or Excel 365 or google sheets.
 
 
 
